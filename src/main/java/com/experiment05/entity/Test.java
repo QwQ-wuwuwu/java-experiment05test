@@ -18,6 +18,7 @@ public class Test {
     private static int add(int a,int b) {
         return a + b;
     }
+    private static void test() {}
 
     /**
      * 基于给定学生，获取学生的导师的所在学院名称。
